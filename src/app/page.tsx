@@ -18,7 +18,7 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        Test Deploy Cloud Run with CI/CD TEST
+        Test Deploy Cloud Run with CI/CD TEST HALOO TEST
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
